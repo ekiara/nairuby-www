@@ -1,15 +1,15 @@
 # Website for Nairobi Ruby User Group
-# Provisionally "codenamed" nairuby
-# nairuby-www
+**Provisionally "codenamed" nairuby**
+**nairuby-www**
 
-git clone https://github.com/ekiara/nairuby-www
-cd ./nairuby-www
+`git clone https://github.com/ekiara/nairuby-www`
+`cd ./nairuby-www`
 
 This is all the pages/code/etc that make up the website for the 
 Nairobi Ruby User Group.
 
 ## About the Nairobi Ruby User Group
-
+TODO
 
 ## Site Sections 
 
@@ -25,8 +25,8 @@ Nairobi Ruby User Group.
 ![screenshot](http://i.imgur.com/xxxxx.png)
 
 ## Team
-### Lead: Martha Chuma
-### Coordinator: Bernard Banta
+  * **Lead:** Martha Chuma
+  * **Coordinator:** Bernard Banta
 
 ## Hosting
-Currently the site is hosted on [nairuby.herokuapp.com](https://nairuby.herokuapp.com).
+Currently the site is hosted on [Heroku](https://nairuby.herokuapp.com).
